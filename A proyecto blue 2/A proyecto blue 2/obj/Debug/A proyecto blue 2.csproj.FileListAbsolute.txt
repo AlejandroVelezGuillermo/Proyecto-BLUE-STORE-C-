@@ -1,0 +1,14 @@
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\bin\Debug\A proyecto blue 2.exe.config
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\bin\Debug\A proyecto blue 2.exe
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\bin\Debug\A proyecto blue 2.pdb
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A proyecto blue 2.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A proyecto blue 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A_proyecto_blue_2.Form1.resources
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A_proyecto_blue_2.Form2.resources
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A_proyecto_blue_2.Form3.resources
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A_proyecto_blue_2.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A proyecto blue 2.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A proyecto blue 2.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A proyecto blue 2.exe
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A proyecto blue 2.pdb
+C:\Users\soned\Videos\programas VS\A proyecto blue 2\A proyecto blue 2\obj\Debug\A_proyecto_blue_2.Caja.resources
